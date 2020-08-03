@@ -6,3 +6,4 @@ class DOg
   def name
     @name
   end
+end
